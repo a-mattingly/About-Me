@@ -50,7 +50,3 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="30" height="30"/>
 </p>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-mattingly&layout=compact&theme=default)](https://github.com/anna-mattingly/github-readme-stats)
