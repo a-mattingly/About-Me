@@ -1,7 +1,7 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-- System analyst learning software development with a particular focus in MSA APIs
+- System analyst practicing software development with a particular focus in MSA APIs
 - Currently working on integration patterns and applications via web service APIs (REST)
 - Bachelor's Degree in Digital Technology and Culture, Computer Science | Washington State University '19
 - Focused on process design and results; building sustainable growth and profitability
