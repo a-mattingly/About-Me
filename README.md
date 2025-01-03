@@ -53,4 +53,4 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-mattingly&layout=compact&theme=default)](https://github.com/anna-mattingly/github-readme-stats)# About-Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-mattingly&layout=compact&theme=default)](https://github.com/anna-mattingly/github-readme-stats)
