@@ -1,14 +1,7 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-- System analyst practicing software development with a particular focus in MSA APIs
-- Currently working on integration patterns and applications via web service APIs (REST)
-- Bachelor's Degree in Digital Technology and Culture, Computer Science | Washington State University '19
-- Focused on process design and results; building sustainable growth and profitability
-
 You'll likely find me contributing here on open source, working on personal projects, riffling through [Reddit.com/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), reading articles on Hacker News, and frequenting coffee shops around north Dallas.
-
-Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
 <h4> Currently Coding: </h4>
 <p align="left">
