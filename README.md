@@ -3,7 +3,7 @@
 
 You'll likely find me contributing here on open source, working on personal projects, riffling through [Reddit.com/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), reading articles on Hacker News, and frequenting coffee shops around north Dallas.
 
-<h4> Currently Coding: img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30" </h4>
+<h4> Currently Coding: </h4> 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 </p>
@@ -24,7 +24,6 @@ You'll likely find me contributing here on open source, working on personal proj
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="30" height="30"/>
 </p>
 
 <h4> Visualization: </h4>
