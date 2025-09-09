@@ -3,7 +3,7 @@
 
 You'll likely find me contributing here on open source, working on personal projects, riffling through [Reddit.com/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), reading articles on Hacker News, and frequenting coffee shops around north Dallas.
 
-<h4> Currently Coding: </h4>
+<h4> Currently Coding: img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30" </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 </p>
